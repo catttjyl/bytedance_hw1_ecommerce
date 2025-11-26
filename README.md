@@ -1,5 +1,5 @@
 # 字节跳动hw1-拟电商网站
-> 利用React + Vite搭建的响应式电商商品展示与购物平台
+> 利用React + Vite搭建的响应式电商商品展示与购物平台 => [Demo](https://jyl-e-commerce.netlify.app/)
 
 ## 功能支持
 * ### 商品列表+筛选
