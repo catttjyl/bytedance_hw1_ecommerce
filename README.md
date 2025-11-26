@@ -57,10 +57,11 @@
 
 ### **5. 移动端布局**
 
-<img width="245" height="659" alt="image" src="https://github.com/user-attachments/assets/575c4e9e-025f-458f-9a4e-b85cbdb21183" />
-<img width="245" height="659" alt="image" src="https://github.com/user-attachments/assets/aebc38b0-6d16-4cf8-a1d6-9a9a54f5924f" />
-<img width="245" height="659" alt="image" src="https://github.com/user-attachments/assets/208139f4-0cea-41c1-806a-417fe3be19cc" />
-<img width="245" height="659" alt="image" src="https://github.com/user-attachments/assets/b691ebca-eabd-4abe-9b73-a0c96ec4bc69" />
+<img width="250" height="659" alt="image" src="https://github.com/user-attachments/assets/575c4e9e-025f-458f-9a4e-b85cbdb21183" />
+<img width="250" height="659" alt="image" src="https://github.com/user-attachments/assets/aebc38b0-6d16-4cf8-a1d6-9a9a54f5924f" />
+<img width="250" height="660" alt="image" src="https://github.com/user-attachments/assets/f56e0e78-e166-44e2-9602-2ed75f297f22" />
+<img width="250" height="659" alt="image" src="https://github.com/user-attachments/assets/208139f4-0cea-41c1-806a-417fe3be19cc" />
+<img width="250" height="659" alt="image" src="https://github.com/user-attachments/assets/b691ebca-eabd-4abe-9b73-a0c96ec4bc69" />
 
 
 ## 代码结构
