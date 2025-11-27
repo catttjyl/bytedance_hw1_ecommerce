@@ -94,11 +94,7 @@ function Listing() {
 
   return (
     <Layout>
-      <div
-        className={`${
-          screenWidth < 992 ? "absolute" : "relative"
-        } z-1 h-screen`}
-      >
+      <div className={`${screenWidth < 992 ? "fixed top-0" : "static"} z-1`}>
         <Sider
           // breakpoint="lg"
           collapsedWidth="0"
