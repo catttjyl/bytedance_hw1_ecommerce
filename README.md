@@ -29,13 +29,13 @@
 ## 技术栈
 工具  | 目的/优点
 ------------- | -------------
-**Vite** | 初始化建构工具，HMR快
-**React.js** | 组件框架
-**Zustand** | 全局状态管理
-**TailwindCss + Acro Design** | 统一UI库 + 支持高自由度样式控制
-**Mock.js** | 模拟数据结构，拦截fetch/axios请求，模拟真实API请求
-**React Router DOM** | 路由管理
-**Axios** | 网络请求管理
+[**Vite**](https://vite.dev/guide/) | 初始化建构工具，HMR快
+[**React.js**](https://react.dev/learn) | 组件框架
+[**Zustand**](https://zustand.docs.pmnd.rs/getting-started/introduction) | 全局状态管理
+[**Antd Design**](https://ant.design/components/overview) + [**TailwindCss**](https://tailwindcss.com/docs/installation/using-vite) | 统一UI库 + 支持高自由度样式控制
+[**Mock.js**](http://mockjs.com/) | 模拟数据结构，拦截fetch/axios请求，模拟真实API请求
+[**React Router DOM**](https://reactrouter.com/home) | 路由管理
+[**Axios**](https://github.com/axios/axios) | 网络请求管理
   
 
 ## 页面展示
